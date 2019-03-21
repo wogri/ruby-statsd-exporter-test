@@ -1,0 +1,2 @@
+FROM prom/statsd-exporter
+CMD ["--log.level=debug"]
